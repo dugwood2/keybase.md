@@ -1,3 +1,73 @@
+   ### Keybase proof
+
+I hereby claim:
+
+  * I am dugwood2 on github.
+  * I am ace13 (https://keybase.io/ace13) on keybase.
+  * I have a public key ASCPGzjEh0kcymj5flsAobu_wiG3G5sc6FcrjCuFFlToJgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208f1b38c487491cca68f97e5b00a1bbbfc221b71b9b1ce8572b8c2b851654e8260a",
+      "host": "keybase.io",
+      "kid": "01208f1b38c487491cca68f97e5b00a1bbbfc221b71b9b1ce8572b8c2b851654e8260a",
+      "uid": "b47aaf9e9dd5d39a27dc5b4b72516319",
+      "username": "ace13"
+    },
+    "merkle_root": {
+      "ctime": 1568133281,
+      "hash": "69a7c67821a183e6dbbd0f766866b03bdbb01c1753dd5bb979a75bfa529ebeb81aa522432e7c8bfbd08aeafdfb47da910f7fe8af894f6b728b6bd59906349294",
+      "hash_meta": "b89faf92e5455bf157babeddf38b273a6afc67987371b6ebb86d106430c19fd7",
+      "seqno": 6461522
+    },
+    "service": {
+      "entropy": "l2R4WH6IegFfaK/oh6J0Oyi3",
+      "name": "github",
+      "username": "dugwood2"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568133290,
+  "expire_in": 504576000,
+  "prev": "d2e9719b8681ede449a38959229887c26261d4502d9a159df3f63562a594bcf3",
+  "seqno": 7,
+  "tag": "signature"
+}
+```
+
+with the key [ASCPGzjEh0kcymj5flsAobu_wiG3G5sc6FcrjCuFFlToJgo](https://keybase.io/ace13), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjxs4xIdJHMpo+X5bAKG7v8IhtxubHOhXK4wrhRZU6CYKp3BheWxvYWTESpcCB8Qg0ulxm4aB7eRJo4lZIpiHwmJh1FAtmhWd8/Y1YqWUvPPEIETU1XJsnko8Gui19TJk1rl+Z6pMpqwsItfr/2D3864JAgHCo3NpZ8RAdWLz3KO5QtIVoXb+nMfPBCC1OB8vjE4VHsKEYQl4uLvdYX5gnH83ykA2d/2UaNVJj4f0gMA97I3zwEKmLPv0D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPsTlDLk0D5ZS7CibGT71OUlnSu1/bgP+0LVfE25o91do3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/ace13
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id ace13
+```
+
+
+
 ### Keybase proof
 
 I hereby claim:
